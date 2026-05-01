@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "PhilowsBotMC",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "PhilowsBotMC",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "philowssmp.playwithbao.com",
+    "port": 40417,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -19,14 +19,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "PhilowsIsHere"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
@@ -65,7 +65,7 @@
     "avoidMobs": true,
     "combat": true,
     "beds": true,
-    "chat": true,
+    "chat": false,
     "console-commands": true
   },
   "combat": {
